@@ -1,4 +1,5 @@
 import React from "react";
+import SocialNetworks from "./SocialNetworks";
 import Avatar from '../img/eu.jpg'
 import "../styles/components/sidebar.sass"
 

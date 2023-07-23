@@ -1,11 +1,11 @@
-import { FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons'
+import { FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa'
 
 import "../styles/components/socialnetworks.sass"
 
-const socialnetworks = () => {
+const SocialNetworks = () => {
     return <div>
         SocialNetworks
     </div>
 }
 
-export default socialnetworks
+export default SocialNetworks
