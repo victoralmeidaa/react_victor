@@ -1,0 +1,29 @@
+@use '../variables'
+@use '../mixins'
+
+#sobre
+    flex-direction: column
+
+    .conteiner
+        display: flex
+
+        .elemento
+            width: 50%
+            display: flex
+            flex-direction: column
+            align-items: center
+            justify-content: center
+            
+            h3
+                margin-bottom: 10px
+
+            p
+                margin-bottom: 15px
+        
+        img
+            max-width: 50%
+            height: 55%
+            padding: 20px
+            margin-bottom: 5px
+            border-radius: variables.$conteiner-border-radius
+        
