@@ -7,8 +7,10 @@ import InformationConteiner from "./InformationConteiner";
 const Sidebar = () => {
     return (
         <aside id="sidebar">
-            <img src={Avatar} alt="Victor Almeida" />
-            <p className="title">Desenvolvedor</p>
+            <div className="perfil">
+                <img src={Avatar} alt="Victor Almeida" />
+                <p className="title">Desenvolvedor</p>
+            </div>
             <SocialNetworks />
             <InformationConteiner />
             <a href="../curriculo/victoralmeida.zip" download="victoralmeida.zip" type="application.zip" className="btn">Download curriculo</a>
