@@ -1,5 +1,5 @@
 import "../styles/components/sobre.sass"
-import Logo_Uniavan from '../img/Logo-Uniavan.webp'
+import Logo_Uniavan from '../img/logouniavan.webp'
 
 const AboutContainer = () =>{
     return (
