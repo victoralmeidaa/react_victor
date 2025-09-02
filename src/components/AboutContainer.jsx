@@ -13,7 +13,7 @@ const AboutContainer = () =>{
                 Node, React JS, HTML, CSS e MySQL, tenho um conjunto de habilidades que podem ser aplicadas em 
                 vários tipos de projetos. <br/><br/>
 
-                Obrigado por visitar meu perfil! 👋
+                Obrigado por visitar meu perfil! 👋 😎
             </p>
             <div className="conteiner">
                 <div className="elemento"> 
